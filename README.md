@@ -1,6 +1,8 @@
 # Criteria Query Rest Service Demo
 
-## Example 1
+Dependency: https://github.com/zacwhy/demo-criteria-query
+
+## Selecting 1 field
 
 HTTP GET Request:
 ```sh
@@ -16,7 +18,7 @@ Response:
 ]
 ```
 
-## Example 2
+## Selecting 2 fields
 
 HTTP GET Request:
 ```sh
